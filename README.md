@@ -36,6 +36,7 @@
 ---
 
 ## Phase 1: Mathematical Foundations (2-3 months)
+## [📚 More Details Needed About Maths Click Here](https://github.com/akshitsutharr/Data-Science-Roadmap/blob/main/Maths%20For%20Data%20Science.md)
 
 ### 🎯 Learning Objectives
 - Master essential mathematics for data science
